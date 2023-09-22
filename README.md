@@ -5,7 +5,8 @@ The publication is available on
 Elsevier Pattern Recognition Volume 143, November 2023, 109814
 https://www.sciencedirect.com/science/article/abs/pii/S0031320323005125
 
-# Abstract
+ABSTRACT
+
 We present DITAN, a novel unsupervised domain-agnostic framework for detecting and interpreting temporal-based anomalies. 
 It is based on an encoder-decoder architecture with both implicit/explicit attention and adjustable layers/units for 
 predicting normality as regular patterns in sequential data. A two-stage thresholding methodology with built-in pruning 
