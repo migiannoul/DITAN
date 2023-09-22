@@ -3,7 +3,7 @@ DITAN: Detection and Interpretation of Temporal-based Anomalies
 
 The publication is available on 
 Elsevier Pattern Recognition Volume 143, November 2023, 109814
-Link: https://www.sciencedirect.com/science/article/abs/pii/S0031320323005125
+Download: https://www.sciencedirect.com/science/article/abs/pii/S0031320323005125
 
 Abstract
 We present DITAN, a novel unsupervised domain-agnostic framework for detecting and interpreting temporal-based anomalies. 
