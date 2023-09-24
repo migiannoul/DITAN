@@ -10,3 +10,5 @@ You can cite us,
 Giannoulis, M., Harris, A., & Barra, V. (2023). DITAN: A deep-learning domain agnostic framework for detection and interpretation of temporally-based multivariate ANomalies. Pattern Recognition, 143, 109814.
 
 or other formats (e.g. BibTeX): https://scholar.google.com/scholar?hl=el&as_sdt=0%2C5&q=DITAN&btnG=#d=gs_cit&t=1695380268447&u=%2Fscholar%3Fq%3Dinfo%3Ah2PoBpJKk8sJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Del
+
+feel free to comment here: https://pubpeer.com/publications/050CD47FCE8F9F06B24AA1455022FB#
